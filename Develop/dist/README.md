@@ -1,6 +1,6 @@
-# awessome project
+# readme project
 
-  ## Description: this is a sample description that will get pushed to github. The one I had originally was a bunch of gibberish so I wanted to have something that looked nice instead of me mashing my keyboard. This special awesome project might help someone find out something about people, places, or things. It could be a reNOUNed application. That was terrible. I'm sorry.
+  ## Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet facilisis purus. Vivamus faucibus ultrices nibh et cursus. Sed ultricies leo ex, eget suscipit libero dictum at. Praesent sit amet dui leo. Integer vel sem ac metus faucibus consectetur. Sed venenatis, sapien ac dapibus iaculis, eros sem gravida mauris, et eleifend justo justo quis tellus. Proin ac arcu et magna dapibus feugiat. Vestibulum magna libero, elementum at neque eget, vehicula lobortis ipsum. Donec gravida turpis ac vehicula maximus. Nullam imperdiet semper mauris, id faucibus ex gravida vel. Fusce ac dui ac arcu fringilla volutpat vulputate sit amet felis. Suspendisse suscipit lobortis pulvinar. Duis lorem felis, fringilla nec molestie vitae, feugiat eget leo. Duis imperdiet rhoncus posuere. Aliquam feugiat nibh a dictum feugiat. Curabitur cursus turpis nec arcu aliquet, vitae egestas elit faucibus.
 
   ## Table of Contents:
   * [Description](#description)
@@ -10,15 +10,15 @@
   * [License](#license)
   * [Questions](#questions)
 
-  ## Installation: to install this project, one must access the repository then clone it to your machine. Open up your terminal and run npm install then run it from there
+  ## Installation: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet facilisis purus. Vivamus faucibus ultrices nibh et cursus. Sed ultricies leo ex, eget suscipit libero dictum at. Praesent sit amet dui leo. Integer vel sem ac metus faucibus consectetur. Sed venenatis, sapien ac dapibus iaculis, eros sem gravida mauris, et eleifend justo justo quis tellus. Proin ac arcu et magna dapibus feugiat. Vestibulum magna libero, elementum at neque eget, vehicula lobortis ipsum. Donec gravida turpis ac vehicula maximus. Nullam imperdiet semper mauris, id faucibus ex gravida vel. Fusce ac dui ac arcu fringilla volutpat vulputate sit amet felis. Suspendisse suscipit lobortis pulvinar. Duis lorem felis, fringilla nec molestie vitae, feugiat eget leo. Duis imperdiet rhoncus posuere. Aliquam feugiat nibh a dictum feugiat. Curabitur cursus turpis nec arcu aliquet, vitae egestas elit faucibus.
 
-  ## Usage: Open up that terminal and run this through node
+  ## Usage: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet facilisis purus. Vivamus faucibus ultrices nibh et cursus. Sed ultricies leo ex, eget suscipit libero dictum at. Praesent sit amet dui leo. Integer vel sem ac metus faucibus consectetur. Sed venenatis, sapien ac dapibus iaculis, eros sem gravida mauris, et eleifend justo justo quis tellus. Proin ac arcu et magna dapibus feugiat. Vestibulum magna libero, elementum at neque eget, vehicula lobortis ipsum. Donec gravida turpis ac vehicula maximus. Nullam imperdiet semper mauris, id faucibus ex gravida vel. Fusce ac dui ac arcu fringilla volutpat vulputate sit amet felis. Suspendisse suscipit lobortis pulvinar. Duis lorem felis, fringilla nec molestie vitae, feugiat eget leo. Duis imperdiet rhoncus posuere. Aliquam feugiat nibh a dictum feugiat. Curabitur cursus turpis nec arcu aliquet, vitae egestas elit faucibus.
 
-  ## Collaboration: Example collaborator #1: Andrew- the brains of the operation who came up with this idea. Example collaborator #2: Ricky- really he's all about styling Example collaborator #3: Haley- determined final functionality
+  ## Collaboration: 
 
   ## License: MIT License
 
   ## Questions:
   If any questions, please reach me by email at sample@no.com.
-  To view other projects, please visit https://github.com/lilycodes
+  To view other projects, please visit https://github.com/lsguerre
 
